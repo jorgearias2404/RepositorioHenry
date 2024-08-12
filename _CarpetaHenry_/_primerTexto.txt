@@ -1,0 +1,7 @@
+pasos para subir el commit
+
+git add repositorio
+git commit -m "mensaje del commit"
+git push origin main 
+
+finalizado
